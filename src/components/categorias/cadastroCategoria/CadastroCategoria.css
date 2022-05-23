@@ -1,0 +1,47 @@
+.topo{
+    margin-top: 20px;
+}
+
+.finalizar-cat{
+    border: 1px solid #000 !important;
+    background-color: rgb(255, 145, 0) !important;
+    margin-top: 80px !important;
+    margin-left: -200px !important;
+    width: 200px !important;
+}
+.finalizar-cat:hover{
+    color:  #fff !important;
+    border: 1px solid #000 !important;
+    background-color:  rgb(255, 145, 0) !important;
+    transition:0.3s !important;
+  animation: ease-in !important;
+}
+
+.form-cat{
+    margin-top: 100px !important;
+    background-color: rgb(255, 255, 255) !important;
+    border-bottom-right-radius: 40px !important;
+      border-top-right-radius: 40px !important;
+      padding: 30px !important;
+      border-bottom-left-radius: 40px !important;
+      border-top-left-radius: 40px 
+      !important;
+      border: 1px solid rgb(215, 215, 215) !important;
+}
+
+.img-cat{
+    margin-top: -80px !important;
+    display: flex;
+  margin-left: 210px !important;
+
+}
+
+.desc-cat{
+   margin-top: 10px !important;
+    margin-left: 150px !important;
+}
+
+.tipo-cat{
+    margin-top: 20px !important;
+    margin-left: 150px !important;
+}

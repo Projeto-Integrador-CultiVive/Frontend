@@ -1,0 +1,176 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+.img-categoria{
+    width: 220px;
+    height: 150px;
+    border-radius: 10%;
+    margin-top: -10px;
+    border: 4px solid #ffffff;
+    margin-left: 90px;
+    margin-right: 90px !important;
+}
+.produto-box{
+    background-color: #ffffff !important;
+    border-radius: 20px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    border: 1px solid #000000 !important;
+    margin-top: 10px !important;
+  
+    
+}
+
+.title-prod{
+    margin-left: 90px !important;
+    font-size:20px !important;
+    color: rgb(83, 83, 83) !important;
+    
+    
+}
+.title-prod-cat{
+    margin-left: 90px !important;
+    margin-bottom: 20px !important;
+    font-size:25px !important;
+    color: rgb(83, 83, 83) !important;
+    font-weight: bold !important;
+    
+}
+
+/* .marginLeft:hover{
+    margin-top: -10px !important;
+    background-color: rgb(41, 80, 0) !important;
+    color: rgb(255, 255, 255) !important;
+    border: 0.5px solid #ffffff !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+    margin-left: 15px !important;
+    transition:0.4s !important;
+    animation: ease-in !important;
+   
+    
+    
+
+} */
+
+.marginLeft{
+    margin-top: -30px !important;
+    background-color: #ffffff !important;
+    color: rgb(53, 91, 0) !important;
+    border: 1px solid #0e6800 !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+    margin-left: 15px !important;
+   
+    
+    
+
+}
+.marginRight{
+    background-color: #ffffff !important;
+    color: rgb(41, 80, 0) !important;
+    border: 0.5px solid #00750c !important;
+    margin-left: -235px !important;
+    margin-top: 10px !important;
+    display: flex !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+   
+}
+.margintop{
+    background-color: #ffffff !important;
+    color: rgb(255, 0, 0) !important;
+    border: 0.5px solid #00750c !important;
+    margin-left: -250px !important;
+    margin-top: 45px !important;
+    display: flex !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+   
+}
+ .marginRight:hover{
+    background-color: rgb(41, 80, 0) !important;
+    color: rgb(255, 255, 255) !important;
+    border: 0.5px solid #ffffff !important;
+    margin-left: -235px !important;
+    margin-top: 10px !important;
+    display: flex !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+    transition:0.4s !important;
+    animation: ease-in !important;
+   
+    
+    height: 25px !important;
+   
+} 
+
+
+.marginLeftcat{
+    margin-top: -10px !important;
+    background-color: #ffffff !important;
+    color: rgb(53, 91, 0) !important;
+    border: 1px solid #0e6800 !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+    margin-left: 15px !important;
+   
+    
+    
+
+}
+.marginLeftcat:hover{
+    margin-top: -10px !important;
+    background-color: rgb(41, 80, 0) !important;
+    color: rgb(255, 255, 255) !important;
+    border: 0.5px solid #ffffff !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+    margin-left: 15px !important;
+   
+    
+    
+
+}
+
+.marginRightcat{
+    background-color: #ffffff !important;
+    color: rgb(41, 80, 0) !important;
+    border: 0.5px solid #00750c !important;
+    margin-left: -236px !important;
+    margin-top: 30px !important;
+    display: flex !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+   
+}
+.marginRightcat:hover{
+    background-color: rgb(41, 80, 0) !important;
+    color: rgb(255, 255, 255) !important;
+    border: 0.5px solid #ffffff !important;
+    margin-left: -236px !important;
+    margin-top: 30px !important;
+    display: flex !important;
+    width: 220px!important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+   
+}
+
+.categorias-box{
+    
+        margin-top: 40px !important;
+    
+}

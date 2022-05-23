@@ -1,0 +1,92 @@
+.container-login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../components/img/cesta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.paperStyle-login {
+    padding: 22px;
+    margin: 35vw;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px !important;
+}
+
+.img {
+    width: 180px;
+    height: 180px;
+    margin-top: -35px;
+}
+
+.box-login {
+    margin-top: -15px;
+}
+
+.loginText {
+    font-weight: bold !important;
+    color: #fca44e;
+}
+
+
+.loginbtn{
+    margin-top: 65px;
+    margin-bottom: 10px;
+}
+
+.button {
+    color: white !important;
+    font-weight: bold !important;
+    background: linear-gradient(90deg,
+            #ec9136 0%,
+            #ffb163 100%);
+}
+
+.button:hover {
+    background: linear-gradient(90deg,
+            #fca44e 100%);
+    transition: 0.3s ease-out !important;
+}
+
+.font {
+    font-size: 15px !important;
+    font-family: Segoe UI !important;
+}
+
+.login-link-cadastro {
+    color: #fb9e40;
+    font-size: 15px !important;
+    font-family: Segoe UI;
+    font-weight: bold !important;
+    text-decoration: none;
+    margin-left: 3px;
+}
+
+.login-link-cadastro:hover {
+    color: #ffca95 !important;
+    transition: 0.3s ease-out !important;
+}
+
+
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+    -webkit-text-fill-color: rgb(45, 45, 45);
+    -webkit-box-shadow: 0 0 0px 1000px #DCE8DC inset;
+    transition: background-color 5000s ease-in-out 0s;
+}

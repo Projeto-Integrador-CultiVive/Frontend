@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&family=Satisfy&display=swap');
+ 
+ body{
+     background-color: #f7f6ee;
+ }
+.caixa{
+    background-color: #ffffff;
+}
+.produto-title{
+    font-size: 40px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-family: 'Roboto Mono', monospace !important;
+    
+   
+}
+.titulo{
+   color: white !important;
+   font-weight: bold !important;
+}
+.img-banner{
+    display:flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 15px !important;
+    
+
+    
+}
+
+.botao{
+    border-color: white !important;
+    background-color: #3F51B5;
+    color: white !important;
+}
+
+.postagens{
+    background-color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.grid-home{
+    background-color: #D8E59E!important;
+    
+}
+
+.bem-vinde{
+    border-top: 1px solid #ffffff !important;
+    margin-top: 30px !important;
+}
+
+.title-bem{
+    margin-top: 30px !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.title-cult{
+    font-size:40px !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.container-produto{
+    display: flex;
+    flex-direction:row !important;
+    
+   
+}
+
+.produto-logo{
+    font-size: 40px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 50px;
+   
+}
+
+.container-prod-tab{
+    margin-bottom: 100px !important;
+}
+
+.grid-banner{
+    background-color: #D3F8E7 !important; ;
+    margin-top: 15px !important;
+}
+

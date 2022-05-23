@@ -1,0 +1,60 @@
+.categorias-box-cat{
+  background-color: #ffffff !important;
+  border-radius: 30px !important;
+  
+  margin-right: 20px !important;
+  display: flex;
+  
+  width: 300px!important;
+}
+
+
+
+.marginLeftcate{
+  margin-top: -10px !important;
+  background-color: #ffffff !important;
+  color: rgb(53, 91, 0) !important;
+  border: 1px solid #0e6800 !important;
+  width: 220px!important;
+  border-radius: 10px !important;
+  padding: 5px !important;
+  margin-left: 15px !important;
+ 
+  
+  
+
+}
+
+.marginRightcate{
+  background-color: #ffffff !important;
+  color: rgb(41, 80, 0) !important;
+  border: 0.5px solid #00750c !important;
+  margin-left: -252px !important;
+  margin-top: 30px !important;
+  display: flex !important;
+  width: 220px!important;
+  border-radius: 10px !important;
+  padding: 5px !important;
+ 
+}
+
+
+
+.title-delete-cat{
+  font-weight: bold !important;
+  font-size: 20px   !important;
+  margin-left: 5px   !important;
+  justify-content: center !important;
+  text-align: center !important;
+  margin-bottom: 15px !important;; 
+}
+
+
+
+.text-delete-cat{
+  font-size: 16px !important;
+  font-weight: bold !important;
+  
+  justify-content: center !important;
+  text-align: center !important;
+}

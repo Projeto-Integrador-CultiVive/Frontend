@@ -1,0 +1,10 @@
+.Carousel {
+  margin-top: 25px;
+  width: 1246px;
+  height: 300px;
+  object-fit: cover;
+  z-index: 1;
+}
+.CarouselComponent{
+ 
+}
