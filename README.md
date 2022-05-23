@@ -1,46 +1,67 @@
-# Getting Started with Create React App
+<h3 align="left">
+    Projeto integrador - G5:
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align= "center" >
+    Cultivive 
+</h1>
+<h2 align= "center"><i>'Cultivar é necessário.'</i></h2>
 
-In the project directory, you can run:
 
-### `npm start`
+<p align="center">
+<img align="center" src="https://imgur.com/SHk5Zhn" style="width: 55%;" alt="Logo da cultivive">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
 
-### `npm test`
+<h2>🎇 Sobre a Cultivive:</h2>
+<h4>.
+</h4>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>💻 Tecnologias: <h2>
+<br>
+<table align="center" style=" width: 60%" >
+  <tr>
+    <td align="center">
+    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <td align="center">
+    <img  src="https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white">
+    <td align="center">
+   <img  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-### `npm run build`
+  <tr>
+   <td align="center">
+   <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/Visual_Studio-FFFF00?style=for-the-badge&logo=visual%20studio&logoColor=black">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+    <td align="center">
+ 
+ </tr>
+ <tr>
+   <td align="center">
+   <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whitee">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit">
+   <td align="center">
+   <img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+   <td align="center">
+   <img  src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </tr>
+</table>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
